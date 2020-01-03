@@ -4,7 +4,7 @@ These projects use Python's PyGame platform to create some of the most popular a
 
 #### Software and Libraries
 
--Python
--PyGame
--Random
--Gamebox
+- Python 
+- PyGame
+- Gamebox
+- Random
